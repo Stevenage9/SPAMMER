@@ -7,7 +7,7 @@ Ladies, Gentlemen, and everyone in between, I present to you, the ***SPAMMER.***
 
 It isn't any ordinary spam application. It is a **special** one.
 
-What makes it so special? Well, for starters, It is fully automated and free of charge, and tailored in such a perfect manner that it is *perfect* for discord exp grinding. All aspects are customizable, and the application is truly afk-able, meaning that you can set it up, turn it on, and leave your system on overnight to see a TREMENDOUS boost in server experience points.
+What makes it so special? Well, for starters, It is fully automated and free of charge, and tailored in such a manner that it is *perfect* for discord exp grinding. All aspects are customizable, and the application is truly afk-able, meaning that you can set it up, turn it on, and leave your system on overnight to see a TREMENDOUS boost in server experience points.
 
 Worried about storage, un-installation? We've got you covered. It is available in two flavors: **Minimal portable**, and **Zipped portable**. Minimal portable is one single exe file, which has all required components of this tool packaged neatly inside of it. Zipped portable is a zip folder with an exe file executing the parts, which are outside of it. Choose your flavor.
 
