@@ -15,7 +15,7 @@ And yes, it is, in fact, a completely open-source project, meaning that any aver
 
 ### How to use:
 #### *For Minimal Portable:*
-- Download the .exe file from [releases](https://github.com/Stevenage9/SPAMMER/releases/) and double click it to run
+- Download `Minimal portable.exe` from [releases](https://github.com/Stevenage9/SPAMMER/releases/) and double click it to run
 - Follow instructions/answer what the app requests and you'll be good to go.
 
 #### *For Zipped Portable:* 
