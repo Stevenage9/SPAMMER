@@ -3,7 +3,7 @@ import webbrowser
 import time
 import keyboard
 
-message = input("Text to be spammed(type enter if you want to spam clipboard)→")
+message = input("Text to be spammed(type enter if you want to spam clipboard)=>")
 
 choice = 0
 while not(choice == 1 or choice == 2):
@@ -12,7 +12,7 @@ while not(choice == 1 or choice == 2):
     if not(choice == 1 or choice == 2):
         print("Please enter either 1 or 2 to select a mode")
 
-ask = str(input("Before you begin, would you like to visit my youtube channel?(y/n)→"))
+ask = str(input("Before you begin, would you like to visit my youtube channel?(y/n)=>"))
 
 if ask == "y":
     url = "https://www.youtube.com/channel/UCXUlNlQpwUV8cCMK8T_spRQ/"
@@ -20,8 +20,8 @@ if ask == "y":
 
 
 if choice == 1:
-    repeats = int(input("Number of times spammed→"))
-    delay = int(input("Delay between each message in miliseconds→"))
+    repeats = int(input("Number of times spammed=>"))
+    delay = int(input("Delay between each message in miliseconds=>"))
 	
     print("Open up your messaging app, please")
     isLoaded = input("Press Enter when the app is loaded up.")
@@ -50,7 +50,7 @@ elif choice == 2:
         global flag
         flag = False
 
-    delay = int(input("Delay between each message in miliseconds→"))
+    delay = int(input("Delay between each message in miliseconds=>"))
     print("This mode of spammer runs forever. Remember, to stop spamming, press Ctrl+Shift+W and the program will stop!")
     print("Open up your messaging app, please")
     isLoaded = input("Press Enter when the app is loaded up.")
