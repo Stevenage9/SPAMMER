@@ -22,7 +22,7 @@ if ask == "y":
 if choice == 1:
     repeats = int(input("Number of times spammed→"))
     delay = int(input("Delay between each message in miliseconds→"))
-
+	
     print("Open up your messaging app, please")
     isLoaded = input("Press Enter when the app is loaded up.")
 
@@ -51,7 +51,7 @@ elif choice == 2:
         flag = False
 
     delay = int(input("Delay between each message in miliseconds→"))
-    print("This mode of spammer runs forever. Remember, to stop spamming, press Cntrl+Shift+W and the program will stop!")
+    print("This mode of spammer runs forever. Remember, to stop spamming, press Ctrl+Shift+W and the program will stop!")
     print("Open up your messaging app, please")
     isLoaded = input("Press Enter when the app is loaded up.")
 
