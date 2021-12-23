@@ -27,8 +27,14 @@ And yes, it is, in fact, a completely open-source project, meaning that any aver
  - Double click (run) the shortcut named `SPAMMER` for the application to start
  - Follow instructions/answer what the app requests and you'll be good to go.
 ## Building
+
 Keep the Source.py file in a folder
+
 Navigate there on a cmd or powerShell window
+
 `pip install pyinstaller` if not already installed
+
 `pyinstaller --onefile Source.py` (Creates "Minimal portable" version)
+
 `pyinstaller  Source.py` (Creates "Zipped portable" version in form of folder, you can then add/create the shortcut and zip it yourself)
+
